@@ -1,0 +1,4 @@
+
+https://v2.vuetifyjs.com/ru/styles/display/ -- адаптивность показа на экране элементов
+
+https://splitmarkt.ru/katalog/vybor-po-parametram/?arrFilter_7_MIN=&arrFilter_7_MAX=&arrFilter_60=1860791280&set_filter=%D0%9F%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C
